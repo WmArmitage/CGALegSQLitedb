@@ -4,7 +4,7 @@ import requests
 import os
 
 # Define database and CSV URL
-DB_NAME = "data.db"
+DB_NAME = "cgalegdb.db"
 TABLE_NAME = "my_table"
 CSV_URL = "https://www.cga.ct.gov/ftp/pub/data/LegislatorDatabase.csv"
 
