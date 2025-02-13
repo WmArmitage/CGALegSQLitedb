@@ -6,7 +6,7 @@ import os
 # Define database and CSV URL
 DB_NAME = "data.db"
 TABLE_NAME = "my_table"
-CSV_URL = "https://example.com/path/to/your.csv"
+CSV_URL = "https://www.cga.ct.gov/ftp/pub/data/LegislatorDatabase.csv"
 
 def download_csv(url, filename="data.csv"):
     """Download the CSV file from a given URL."""
